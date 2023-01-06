@@ -1,6 +1,5 @@
 # Fairytale 
-Проект был разработан для IT контеста от МТС [hr.mts.ru](https://hr.mts.ru/word2code?utm_source=yandex_stream&utm_medium=cpc&utm_campaign=str_brand_search%7C81682515&utm_content=adset_id=5103468849%7Cnid=none%7Cdevice_type=desktop%7Crid=42630185397&utm_term=мтс%20it&etext=2202.g30P9qL-S03fRc6GOsMrkgJAnOP39WOWSZ1fHTGe7sxwbmNmc25ucnNrenF6eGt4.bcf6c8a283cab9763c590f7304a137118d635b2a&yclid=18140930340213557326). В рамках контеста необходимо программно описать события, происходящие в сказке.
-## В проекте реализованно:
+Проект был разработан для __IT контеста от МТС__ [hr.mts.ru](https://hr.mts.ru/word2code?utm_source=yandex_stream&utm_medium=cpc&utm_campaign=str_brand_search%7C81682515&utm_content=adset_id=5103468849%7Cnid=none%7Cdevice_type=desktop%7Crid=42630185397&utm_term=мтс%20it&etext=2202.g30P9qL-S03fRc6GOsMrkgJAnOP39WOWSZ1fHTGe7sxwbmNmc25ucnNrenF6eGt4.bcf6c8a283cab9763c590f7304a137118d635b2a&yclid=18140930340213557326). В рамках контеста необходимо программно описать события, происходящие в сказке. __В проекте реализованно:__
 
 -  ## Создание и хранение сущностей
     - [X] Конфеты
