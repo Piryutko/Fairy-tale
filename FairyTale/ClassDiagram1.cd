@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FairyTale.CandyStorage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAIAAABAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>CandiesStorage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FairyTale.Candy" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Candy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.CandyFacade" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAgAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>CandyFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.117" Collapsed="true" />
+  </Class>
+  <Class Name="FairyTale.Doll" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAABAIAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Doll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.DollFactory" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>DollFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.DollStorage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAIAAAAACAAAAAEEAAAAAAAAAAAEAAAACAAAAA=</HashCode>
+      <FileName>DollsStorage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FairyTale.FairyTaleFacade" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAgAAAAAEAAAEACAAAAAAEAQgACAAAAA=</HashCode>
+      <FileName>FairyTaleFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FairyTale.GingerbreadDoll" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GingerbreadDoll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.GingerbreadDollFactory" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GingerbreadDollFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.GoodMarie" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAgAgIACAIBAIgAAAAAAAAAgAAAFAAAAABAAA=</HashCode>
+      <FileName>GoodMarie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.Nutcracker" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Nutcracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.Program" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.RatKing" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAQAAkAAAAABAIAAAAEEAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RatKing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.SugarDoll" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SugarDoll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.SugarDollFactory" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>SugarDollFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FairyTale.Clock" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FairyTale.ICandyStorage" Collapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ICandyStorage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FairyTale.ICandyFacade" Collapsed="true">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ICandyFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FairyTale.IDollStorage" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAACAAAAAEAAAAAAAAAAAAEAAAACAAAAA=</HashCode>
+      <FileName>IDollStorage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FairyTale.IFairyTaleFacade" Collapsed="true">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAEAAAAACAAAAAAEAAgACAAAAA=</HashCode>
+      <FileName>IFairyTaleFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FairyTale.LocationType" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAgAAAAIQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocationType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FairyTale.MovementType" Collapsed="true">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAgACRAAAAAAAAAAAAAIiAAAAAAAgACAAQAA=</HashCode>
+      <FileName>MovementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FairyTale.SoulMoodType" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>SoulMoodType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

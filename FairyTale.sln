@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FairyTale", "FairyTale\FairyTale.csproj", "{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairyTaleTests", "FairyTaleTests\FairyTaleTests.csproj", "{95E997E2-3C88-4BA2-A5EF-0670F97DDE3D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B} = {24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FA5D18-6705-4D7B-92FF-E9BB0CAFCB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E997E2-3C88-4BA2-A5EF-0670F97DDE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E997E2-3C88-4BA2-A5EF-0670F97DDE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E997E2-3C88-4BA2-A5EF-0670F97DDE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E997E2-3C88-4BA2-A5EF-0670F97DDE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E056E619-5AA8-4CE0-A092-2313BB007B7A}
+	EndGlobalSection
+EndGlobal
