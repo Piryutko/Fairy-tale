@@ -30,16 +30,9 @@ namespace FairyTale
             }
         }
 
-        public bool ExistDoll(string name)
-        {
-            return _dolls.Any(d => d.Name == name);
-        }
+        public bool ExistDoll(string name) => _dolls.Any(d => d.Name == name);
 
-        public Doll GetDoll(string name)
-        {
-            var doll = GetAllDolls().First(d => d.Name == name);
-            return doll;
-        }
+        public Doll GetDoll(string name) => GetAllDolls().First(d => d.Name == name);
 
         public List<Doll> GetAllDolls() => _dolls;
 

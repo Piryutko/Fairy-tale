@@ -10,15 +10,9 @@ namespace FairyTale
             _currentDateTime = startDateTime;
         }
 
-        public void AddDay()
-        {
-           _currentDateTime = _currentDateTime.AddDays(1);
-        }
+        public void AddDay() => _currentDateTime = _currentDateTime.AddDays(1);
 
-        public DateTime Show()
-        {
-            return _currentDateTime;
-        }
+        public DateTime Show() => _currentDateTime;
 
         private DateTime _currentDateTime;
     }
